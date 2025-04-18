@@ -1,0 +1,9 @@
+.vs/
+
+PatchNotesAPI/bin
+PatchNotesAPI/obj
+
+PatchNotesAPI.Contracts/bin
+PatchNotesAPI.Contracts/obj
+
+appsettings.json

@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PatchNotesAPI", "PatchNotesAPI\PatchNotesAPI.csproj", "{011C31EA-135D-41BC-B9B0-87745F96D6BF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PatchNotesAPI.Contracts", "PatchNotesAPI.Contracts\PatchNotesAPI.Contracts.csproj", "{610DC22C-9ADA-492F-9980-9D4921CF60F8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{011C31EA-135D-41BC-B9B0-87745F96D6BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{011C31EA-135D-41BC-B9B0-87745F96D6BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{011C31EA-135D-41BC-B9B0-87745F96D6BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{011C31EA-135D-41BC-B9B0-87745F96D6BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{610DC22C-9ADA-492F-9980-9D4921CF60F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{610DC22C-9ADA-492F-9980-9D4921CF60F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{610DC22C-9ADA-492F-9980-9D4921CF60F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{610DC22C-9ADA-492F-9980-9D4921CF60F8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
