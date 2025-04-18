@@ -1,0 +1,1 @@
+Wep api for posting&editing&retrieving patch notes for software projects with custom middleware api key authentication. I use it to track development of my game & my website for that game fetches patch notes from this simple crud API 
